@@ -13,3 +13,4 @@ bonfire/application/config/database.php
 bonfire/modules/*
 # Except the following:
 !bonfire/modules/todo
+!bonfire/modules/tarefas
